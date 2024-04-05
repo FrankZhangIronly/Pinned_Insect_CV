@@ -1,2 +1,2 @@
 # Pinned_Insect_CV
-A computer vision project for pinned insect identification.
+This repository is for the UCL MSc EDS dissertation project **Computer Vision and Machine Learning for Pinned Insect Identification**. 

@@ -6,7 +6,9 @@ Develop CV and ML models to aid in the digitization of over 25 million pinned in
 
 The specific scenario we aim to address is **assisting robotic arms in identifying specimens within drawers** and **locating the correct part** to grasp the target.
 
-![](other/img.png)
+<p align="center">
+    <img height="300" src="other/img.png"/>
+</p>
 
 ## Question Breakdown
 1. Develop models for pinned insect identification. (Pre-training)
@@ -16,6 +18,7 @@ The specific scenario we aim to address is **assisting robotic arms in identifyi
 
 ## Project Baseline
 Models are evaluated on COCO val2017 dataset. 
+<p align="center">
 
 | Model         | mAP<sup>val<br>50-95 | params<br><sup>(M) | FLOPs<br><sup>(B) |
 |---------------|----------------------|--------------------|-------------------|
@@ -29,3 +32,5 @@ Models are evaluated on COCO val2017 dataset.
 | RT-DETR-R50-m | 51.3                 | 36                 | 100               |
 | RT-DETR-R50   | 53.1                 | 42                 | 136               |
 | RT-DETR-R101  | 54.3                 | 76                 | 259               |
+
+</p>

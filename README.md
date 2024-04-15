@@ -6,7 +6,7 @@ Develop CV and ML models to aid in the digitization of over 25 million pinned in
 
 The specific scenario we aim to address is **assisting robotic arms in identifying specimens within drawers** and **locating the correct part** to grasp the target.
 
-![](.\other\img.png)
+![](other/img.png)
 
 ## Question Breakdown
 1. Develop models for pinned insect identification. (Pre-training)

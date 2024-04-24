@@ -1,0 +1,13 @@
+path: ../datasets/ALICE_yolov8
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 3
+names: ['label', 'pin', 'specimen']
+
+roboflow:
+  workspace: alice-nvpp0
+  project: alice-s1qop
+  version: 1
+  license: Public Domain

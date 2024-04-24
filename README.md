@@ -17,8 +17,7 @@ The specific scenario we aim to address is **assisting robotic arms in identifyi
 4. Integrate additional modules for segmentation of insect.
 
 ## Project Baseline
-Models are evaluated on COCO val2017 dataset. 
-<p align="center">
+Models are evaluated on COCO val2017 dataset.
 
 | Model         | mAP<sup>val<br>50-95 | params<br><sup>(M) | FLOPs<br><sup>(B) |
 |---------------|----------------------|--------------------|-------------------|
@@ -32,5 +31,3 @@ Models are evaluated on COCO val2017 dataset.
 | RT-DETR-R50-m | 51.3                 | 36                 | 100               |
 | RT-DETR-R50   | 53.1                 | 42                 | 136               |
 | RT-DETR-R101  | 54.3                 | 76                 | 259               |
-
-</p>

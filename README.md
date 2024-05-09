@@ -31,3 +31,8 @@ Models are evaluated on COCO val2017 dataset.
 | RT-DETR-R50-m | 51.3                 | 36                 | 100               |
 | RT-DETR-R50   | 53.1                 | 42                 | 136               |
 | RT-DETR-R101  | 54.3                 | 76                 | 259               |
+
+---
+## 0509 update
+1. create utils folders for self-defined tools
+2. build augmentation and visulization (boxes) tools

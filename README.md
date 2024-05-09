@@ -1,6 +1,12 @@
 # Pinned_Insect_CV
 This repository is for the UCL MSc EDS dissertation project **Computer Vision and Machine Learning for Pinned Insect Identification**. 
 
+---
+## 0509 update
+1. create utils folders for self-defined tools
+2. build augmentation and visulization (boxes) tools
+---
+
 ## Project Aims
 Develop CV and ML models to aid in the digitization of over 25 million pinned insect specimens.
 
@@ -31,8 +37,3 @@ Models are evaluated on COCO val2017 dataset.
 | RT-DETR-R50-m | 51.3                 | 36                 | 100               |
 | RT-DETR-R50   | 53.1                 | 42                 | 136               |
 | RT-DETR-R101  | 54.3                 | 76                 | 259               |
-
----
-## 0509 update
-1. create utils folders for self-defined tools
-2. build augmentation and visulization (boxes) tools

@@ -2,6 +2,12 @@
 This repository is for the UCL MSc EDS dissertation project **Computer Vision and Machine Learning for Pinned Insect Identification**. 
 
 ---
+## 0610 update
+current detection and segmentation result on test video:
+
+---
+
+---
 ## 0509 update
 1. create utils folders for self-defined tools
 2. build augmentation and visulization (boxes) tools
@@ -10,7 +16,7 @@ This repository is for the UCL MSc EDS dissertation project **Computer Vision an
 ## Project Aims
 Develop CV and ML models to aid in the digitization of over 25 million pinned insect specimens.
 
-The specific scenario we aim to address is **assisting robotic arms in identifying specimens within drawers** and **locating the correct part** to grasp the target.
+The specific scenario we aim to address is **assisting robotic arms in identifying specimens within drawers** and **locating the pins** to grasp the target.
 
 <p align="center">
     <img height="300" src="other/img.png"/>

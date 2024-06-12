@@ -4,7 +4,11 @@ This repository is for the UCL MSc EDS dissertation project **Computer Vision an
 ---
 ## 0610 update
 current detection and segmentation result on test video:
-
+<p align="center">
+  <a href="other/vi720.mp4">
+    <img src="other/vi.png" alt="Demo Video">
+  </a>
+</p>
 ---
 
 ---

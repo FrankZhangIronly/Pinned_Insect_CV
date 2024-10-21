@@ -5,7 +5,7 @@ import os
 from tqdm import tqdm
 
 class vis_boxes:
-    def __init__(self, base_dir):
+    def __init__(self, base_dir, crop=False):
         self.color_list = \
             [
                 (255, 0, 0),
@@ -17,7 +17,7 @@ class vis_boxes:
             ]
 
         self.base_dir = base_dir
-        self.output_label_dir = os.path.join(base_dir, 'labels_crop')
+        self.output_label_dir = os.path.join(base_dir, 'labels_crop') if crop==True else os.path.join(base_dir, 'labels')
 
     def _vis_image_boxes(self, path, target, image_format = "jpeg"):
         label_path = Path(path)

@@ -1,5 +1,9 @@
 # Pinned_Insect_CV
-This repository is for the UCL MSc EDS dissertation project **Computer Vision and Machine Learning for Pinned Insect Identification**. 
+This repository is for the proceeding paper **Accelerating Pinned Specimen Digitization for Biodiversity Research: A Deep Learning Pipeline for Collaborative Robots**. 
+
+---
+## 1021 update
+updated the final version of Jupyter Notebook file "train_T4_mask.ipynb". It contains all the code for the experiment mentioned in the paper.
 
 ---
 ## 0610 update

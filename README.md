@@ -1,8 +1,16 @@
 # Pinned_Insect_CV
 
-This repository is for the proceeding paper **Accelerating Pinned Specimen Digitization for Biodiversity Research: A Deep Learning Pipeline for Collaborative Robots**.
+This repository supports the proceeding paper **Accelerating Pinned Specimen Digitization: A Deep Learning Pipeline for Collaborative Robots**.
 
-This repository provides resources for training a YOLO model to detect pinned insects in images. It includes the steps required to set up the environment, prepare the dataset, train and evaluate the model, and visualize the results.
+It provides resources for training a YOLO model capable of identifying specimens, pins, and labels in cobot digitization workflow. The repository includes detailed steps to:
+
+- Set up the environment
+- Prepare the dataset
+- Train and evaluate the model
+- Visualize the results
+
+> **Collaboration:** This project was developed together with Natural History Museum, leveraging cutting-edge technology to advance museum digitization.
+
 
 ## Workspace Setup
 
